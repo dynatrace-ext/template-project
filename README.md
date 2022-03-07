@@ -3,9 +3,6 @@
 This repository contains a template that can be used to seed a repository for a
 new Dynatrace Ext project.
 
-See our internal OSPO guides on SharePoint for more information about
-releasing a new Dynatrace Ext project.
-
 This template uses the Apache license, as is Dynatrace's default.  See the
 documentation for instructions on using alternate license.
 
